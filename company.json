@@ -1,0 +1,95 @@
+{
+  "full_name": "ООО \"Неодент\"",
+  "UNP": "Требует уточнения",
+  "address": {
+    "street": "Центр Минска, 5 минут от ст.м.Пролетарская",
+    "city": "Минск",
+    "country": "Беларусь",
+    "full": "Центр Минска, 5 минут от ст.м.Пролетарская, Минск, Беларусь"
+  },
+  "phones": [
+    "+375 (XX) XXX-XX-XX"
+  ],
+  "emails": [
+    "info@ndent.by"
+  ],
+  "website": "https://ndent.by/",
+  "years_in_business": 20,
+  "founding_year": 2004,
+  "verified_sources": [
+    {
+      "source": "Official website",
+      "url": "https://ndent.by/",
+      "date_verified": "2024-09-17",
+      "information": "Company description, services, team information"
+    }
+  ],
+  "business_type": "Стоматологическая клиника",
+  "specializations": [
+    "Терапевтическая стоматология",
+    "Ортопедическая стоматология", 
+    "Эстетическая стоматология",
+    "Имплантология",
+    "Лечение под микроскопом"
+  ],
+  "services": [
+    "Лечение кариеса",
+    "Лечение пульпита", 
+    "Лечение периодонтита",
+    "Лечение зубов под микроскопом",
+    "Шинирование зубов",
+    "Съемные протезы: частичные и полные",
+    "Протезирование зубов: коронки, виниры",
+    "Установка мостов",
+    "Протезирование на имплантах",
+    "Протезирование на All-on-4, All-on-6",
+    "Ультразвуковая чистка/скейлинг",
+    "Чистка зубов AIR-flow",
+    "Удаление налета на протезах, имплантах",
+    "Фторпрофилактика",
+    "Функциональная реставрация зубов",
+    "Отбеливание зубов",
+    "Художественная реставрация зубов"
+  ],
+  "team": [
+    {
+      "name": "Винничек Екатерина Сергеевна",
+      "specialty": "Стоматолог-терапевт",
+      "image": "https://ndent.by/wp-content/uploads/2024/08/Vinnichek-Katya-1.jpg"
+    },
+    {
+      "name": "Мартинкевич Александр Станиславович", 
+      "specialty": "Стоматолог ортопед, хирург, имплантолог",
+      "image": "https://ndent.by/wp-content/uploads/2024/08/Martinkevich-Aleksandr-1.jpg"
+    },
+    {
+      "name": "Гронская Нина Станиславовна",
+      "specialty": "Стоматолог-терапевт", 
+      "image": "https://ndent.by/wp-content/uploads/2024/08/Gronskaya-Nina-1.jpg"
+    },
+    {
+      "name": "Занько Константин Михайлович",
+      "specialty": "Стоматолог-ортопед",
+      "image": "https://ndent.by/wp-content/uploads/2024/08/Zanko-konstancin.jpg"
+    }
+  ],
+  "advantages": [
+    "Удобное месторасположение - центр Минска",
+    "Комплексный подход к лечению",
+    "Гарантия качества",
+    "Доступные цены",
+    "Современные материалы",
+    "Специалисты высокого уровня",
+    "Цифровое оборудование",
+    "Лечение под микроскопом"
+  ],
+  "insurance_cooperation": true,
+  "working_hours": {
+    "monday_friday": "9:00 - 20:00",
+    "saturday": "9:00 - 17:00", 
+    "sunday": "выходной"
+  },
+  "logo": "https://ndent.by/wp-content/uploads/2024/09/logo-3.png",
+  "hero_image": "https://cdn1.genspark.ai/user-upload-image/gpt_image_generated/84f8634f-a602-493f-a9f9-794c54e87133",
+  "last_updated": "2024-09-17"
+}
